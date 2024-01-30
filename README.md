@@ -2,7 +2,7 @@
 A Python GUI application built using the customtkinter library for generating license keys in bulk with customizable settings.
 ### Features:
 - Simple and modern interface.
-- Dark mode and light mode for user preference.
+- Dark mode (only dark mode is available) and light mode (coming in the future) for user preference.
 - Generate keys button activates when file type and save location are selected.
 - Keys Settings tab allows users to customize generated keys:
   - Key length adjustment.
