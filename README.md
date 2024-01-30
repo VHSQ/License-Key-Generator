@@ -19,3 +19,9 @@ A Python GUI application built using the customtkinter library for generating li
 
 ### Note:
 - It is recommended to create a folder for saving generated files.
+
+### Who is it for?:
+The Mass License Key Generator GUI is designed for developers, businesses, and organizations requiring a streamlined solution for generating large quantities of unique license keys. It caters to software companies, digital product distributors, small businesses, educational institutions, freelancers, security professionals, and DRM solution providers, offering customizable settings and a user-friendly interface to meet a variety of licensing needs efficiently.
+
+### legality:
+The legality of using the Mass License Key Generator GUI depends on how the generated license keys are utilized. If the keys are generated and used in compliance with applicable laws, licensing agreements, and terms of service, it is considered legal. However, distributing or using license keys without proper authorization or in violation of software licenses and intellectual property rights may lead to legal consequences. Users should ensure that they have the necessary rights and permissions to generate and use license keys in accordance with legal standards. And as the creator of the Mass License Key Generator GUI, I cannot be held responsible for any misuse or unauthorized distribution of the generated license keys. Users assume full responsibility for the lawful and ethical use of the tool, including compliance with relevant laws, licensing agreements, and intellectual property rights. Additionally, I recommend users exercise caution and diligence in their use of the software to avoid any potential legal or ethical issues.
