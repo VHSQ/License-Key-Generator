@@ -19,8 +19,7 @@ A Python GUI application built using the customtkinter library for generating li
 
 ### Note:
 - It is recommended to create a folder for saving generated files.
-
-### It is currently still Console based.
+- It is currently still Console based.
 
 ### Will there ever be two identical keys?
 While the probability of generating two identical keys is extremely low, it’s not zero. Given a large enough number of keys and/or a small enough key length, there’s a chance that two or more generated keys could be the same due to the random nature of the key generation process. 
